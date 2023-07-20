@@ -5,8 +5,8 @@ Este projeto consiste em uma página simples e responsiva dedicada à série de 
 
 ## Funcionalidades Principais
 1. Carrossel de imagens:
-   ![projeto the last of us](https://github.com/Lzdavi13/projeto-the-last-of-us/assets/127680849/9cc6e4b1-c8af-4f00-a055-9f92ae152252)
     * O carrossel é a funcionalidade principal da página.
+      ![projeto the last of us](https://github.com/Lzdavi13/projeto-the-last-of-us/assets/127680849/9cc6e4b1-c8af-4f00-a055-9f92ae152252)
     * Possui 6 botões, cada um exibindo uma imagem de um personagem diferente (Ellie e Joel).
       
       ![botoes do carrossel](https://github.com/Lzdavi13/projeto-the-last-of-us/assets/127680849/18220038-5574-4748-bf3e-c932030959d3)
