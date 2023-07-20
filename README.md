@@ -14,6 +14,7 @@ Este projeto consiste em uma página simples e responsiva dedicada à série de 
     * Permite que os usuários alternem entre as imagens dos personagens clicando nos botões.
 3. Texto Descritivo:
      * Além do carrossel, a página apresenta um texto que fornece informações básicas sobre a série "The Last of Us".
+       
        ![texto projeto](https://github.com/Lzdavi13/projeto-the-last-of-us/assets/127680849/3dea66f2-fe49-4ea3-b92a-40f31ac2e2b6)
 
 
